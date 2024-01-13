@@ -1,0 +1,3 @@
+media-libs/mesa -zstd -proprietary-codecs -gles2
+media-libs/libvpx postproc
+www-client/firefox pulseaudio
